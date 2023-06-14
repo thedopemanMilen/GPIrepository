@@ -1,0 +1,54 @@
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\mena\Desktop\ГРАФИКА И ГПИ\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\mena\Desktop\Circle working\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\mena\Desktop\Circle working\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\mena\Desktop\Circle working\obj\Debug\Draw.MainForm.resources
+C:\Users\mena\Desktop\Circle working\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\mena\Desktop\Circle working\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\mena\Desktop\Circle working\obj\Debug\Draw.exe
+C:\Users\mena\Desktop\Circle working\obj\Debug\Draw.pdb
+C:\Users\mena\Desktop\Circle working\bin\Debug\Draw.exe
+C:\Users\mena\Desktop\Circle working\bin\Debug\Draw.pdb
+C:\Users\mena\Desktop\Circle working - Copy\bin\Debug\Draw.exe
+C:\Users\mena\Desktop\Circle working - Copy\bin\Debug\Draw.pdb
+C:\Users\mena\Desktop\Circle working - Copy\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\mena\Desktop\Circle working - Copy\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\mena\Desktop\Circle working - Copy\obj\Debug\Draw.MainForm.resources
+C:\Users\mena\Desktop\Circle working - Copy\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\mena\Desktop\Circle working - Copy\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\mena\Desktop\Circle working - Copy\obj\Debug\Draw.exe
+C:\Users\mena\Desktop\Circle working - Copy\obj\Debug\Draw.pdb
+C:\Users\mena\Desktop\Working copy\bin\Debug\Draw.exe
+C:\Users\mena\Desktop\Working copy\bin\Debug\Draw.pdb
+C:\Users\mena\Desktop\Working copy\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\mena\Desktop\Working copy\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\mena\Desktop\Working copy\obj\Debug\Draw.MainForm.resources
+C:\Users\mena\Desktop\Working copy\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\mena\Desktop\Working copy\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\mena\Desktop\Working copy\obj\Debug\Draw.exe
+C:\Users\mena\Desktop\Working copy\obj\Debug\Draw.pdb
+C:\Users\mena\Desktop\Circle,Transparency, Coloring,Moving\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\mena\Desktop\Circle,Transparency, Coloring,Moving\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\mena\Desktop\Circle,Transparency, Coloring,Moving\obj\Debug\Draw.MainForm.resources
+C:\Users\mena\Desktop\Circle,Transparency, Coloring,Moving\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\mena\Desktop\Circle,Transparency, Coloring,Moving\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\mena\Desktop\Circle,Transparency, Coloring,Moving\obj\Debug\Draw.exe
+C:\Users\mena\Desktop\Circle,Transparency, Coloring,Moving\obj\Debug\Draw.pdb
+C:\Users\mena\Desktop\Circle,Transparency, Coloring,Moving\bin\Debug\Draw.exe
+C:\Users\mena\Desktop\Circle,Transparency, Coloring,Moving\bin\Debug\Draw.pdb
